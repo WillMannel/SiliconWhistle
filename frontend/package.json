@@ -2,6 +2,7 @@
   "name": "anonymous-complaints-frontend",
   "version": "1.0.0",
   "private": true,
+  "proxy": "http://localhost:3001",
   "dependencies": {
     "axios": "^0.27.2",
     "react": "^18.2.0",
@@ -32,4 +33,5 @@
       "last 1 safari version"
     ]
   }
+  
 }
